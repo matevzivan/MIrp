@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1794231394.05312 "c:/Users/mi73683/rp/racunalniski-praktikum/06-magicni-kvadrati/magic.tex" "magic.pdf" "magic" 1794231394.67398 0
+["pdflatex"] 1794233211.26961 "c:/Users/mi73683/rp/racunalniski-praktikum/06-magicni-kvadrati/magic.tex" "magic.pdf" "magic" 1794233211.90714 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc" 1256929440 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc" 1256929440 2840 216e6e45ad352e2456e1149f28885bee ""
@@ -50,13 +50,14 @@
   "C:/Program Files/MiKTeX/tex/latex/lm/t1lmtt.fd" 1430474546 2682 555da1faa2e266801e4b221d01a42cb5 ""
   "C:/Program Files/MiKTeX/tex/latex/lm/ts1lmr.fd" 1430474546 1914 884882d7ebb0fd65cea93fca77ff6f5a ""
   "C:/Program Files/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "C:/Users/mi73683/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1793631670 82507 a9eef8696c92627b87e9975edea03b2a ""
+  "C:/Users/mi73683/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1794231640 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/mi73683/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1793628058 13357503 9dc882b91fac6a8ceb8f293ea6836ebf ""
+  "C:/Users/mi73683/AppData/Roaming/MiKTeX/tex/latex/amscls/amsthm.sty" 1591023609 12594 0d51ac3a545aaaa555021326ff22a6cc ""
   "C:/Users/mi73683/AppData/Roaming/MiKTeX/tex/latex/babel-slovenian/slovenian.ldf" 1748080874 3795 6a11b7ba6aa24ec0e0220b60f5ed04ca ""
-  "c:/Users/mi73683/rp/racunalniski-praktikum/06-magicni-kvadrati/magic.tex" 1794231392 8644 d4f318c48e127acbd5faafd5405b597a ""
-  "magic.aux" 1794231394 1056 d3a030e11426901df94a468badc284fa "pdflatex"
-  "magic.tex" 1794231392 8644 d4f318c48e127acbd5faafd5405b597a ""
-  "magic.toc" 1794231394 588 b650541a7470944a97996f9dcbe709c3 "pdflatex"
+  "c:/Users/mi73683/rp/racunalniski-praktikum/06-magicni-kvadrati/magic.tex" 1794233210 8815 d844edfdd428419a619ad573678e1574 ""
+  "magic.aux" 1794233211 1224 11f5e45ce4af15d98db773ac8ca891e4 "pdflatex"
+  "magic.tex" 1794233210 8815 d844edfdd428419a619ad573678e1574 ""
+  "magic.toc" 1794233211 588 b650541a7470944a97996f9dcbe709c3 "pdflatex"
   (generated)
   "magic.aux"
   "magic.log"
