@@ -1,14 +1,15 @@
 # Fdb version 4
-["bibtex magic"] 1794235710.13701 "magic.aux" "magic.bbl" "magic" 1794235883.99433 0
+["bibtex magic"] 1794237489.53286 "magic.aux" "magic.bbl" "magic" 1794238246.49204 0
   "./magic.bib" 1794230890 1019 99c3aefbef6333804bf69243a0c3bf27 ""
   "C:/Program Files/MiKTeX/bibtex/bst/bibtex/siam.bst" 1291864356 19403 812681d329611d2a1625ad7ae5186edc ""
-  "magic.aux" 1794235883 1643 fb9a9a6f87f2753ed4e55188cef6c217 "pdflatex"
+  "magic.aux" 1794238245 1730 979af8d25ccaa48cf2bd4719ada4d097 "pdflatex"
   (generated)
   "magic.bbl"
   "magic.blg"
   (rewritten before read)
-["pdflatex"] 1794235882.65071 "c:/Users/mi73683/rp/racunalniski-praktikum/06-magicni-kvadrati/magic.tex" "magic.pdf" "magic" 1794235883.99525 0
+["pdflatex"] 1794238245.07053 "c:/Users/mi73683/rp/racunalniski-praktikum/06-magicni-kvadrati/magic.tex" "magic.pdf" "magic" 1794238246.49324 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
+  "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc" 1256929440 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc" 1256929440 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc" 1256929440 2840 216e6e45ad352e2456e1149f28885bee ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc" 1256929440 2327 9d6df24f9c4f7368395224341a95523a ""
@@ -39,9 +40,12 @@
   "C:/Program Files/MiKTeX/fonts/tfm/public/lm/ts1-lmr12.tfm" 1256929440 1596 1d4548788e389ded56d0b01b28377882 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb" 1256929440 116908 9a7a12d1e4df280ea0ab4aad83cdef88 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb" 1256929440 116427 4909e80035dae5d5a4ec2b5ddd9649dd ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmex10.pfb" 1256929440 23055 2e5b42921de910eaa97b85df04ca4891 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi12.pfb" 1256929440 30696 3da7e46ecf5615eedebd9f27dab4d9d7 ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi8.pfb" 1256929440 30635 833ec815d446ec453a4913fc26d24cbc ""
   "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb" 1256929440 113634 9384aebdf26f9881e046a4b5574566db ""
   "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr17.pfb" 1256929440 119752 1bd8d06e4079df624bf59ce3ad7c9aa6 ""
+  "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr6.pfb" 1256929440 123394 992f5e87d698d9e94717394c62580ea6 ""
   "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr8.pfb" 1256929440 122174 a2d5e73f396ddbeb3bdf5c79aea0993d ""
   "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri12.pfb" 1256929440 109265 e6c7d377db6dfccd4a123fb26da8cffb ""
   "C:/Program Files/MiKTeX/fonts/type1/public/lm/lmsy10.pfb" 1256929440 27863 09ce3735688ffde955e72da27c95b61a ""
@@ -50,6 +54,11 @@
   "C:/Program Files/MiKTeX/tex/generic/babel/locale/sl/babel-sl.ini" 1786180798 4051 05caf11974323aa9515da50718a718aa ""
   "C:/Program Files/MiKTeX/tex/generic/babel/locale/sl/babel-slovene.tex" 1786180798 508 9a2bc27ca513ec2309c60038038d0813 ""
   "C:/Program Files/MiKTeX/tex/generic/babel/txtbabel.def" 1786180796 5294 113c562194191879829187bac16cdbfa ""
+  "C:/Program Files/MiKTeX/tex/latex/amsmath/amsbsy.sty" 1780842038 2222 19e175673ef879f3f232f36ac15767a8 ""
+  "C:/Program Files/MiKTeX/tex/latex/amsmath/amsgen.sty" 1780842037 4173 c36014b45333fb59a0b1c1ba84df10f4 ""
+  "C:/Program Files/MiKTeX/tex/latex/amsmath/amsmath.sty" 1780842039 88826 df33b75c2b510b1365372c880e3e43b1 ""
+  "C:/Program Files/MiKTeX/tex/latex/amsmath/amsopn.sty" 1780842038 4474 e8e78ae89fe9e8de1decac472cd058c2 ""
+  "C:/Program Files/MiKTeX/tex/latex/amsmath/amstext.sty" 1780842039 2444 7f0b8a693414aa18acf9a58b6c630be5 ""
   "C:/Program Files/MiKTeX/tex/latex/arabi/bblopts.cfg" 1705750854 902 c30e5c373bc58bde21f8f63a3091626f ""
   "C:/Program Files/MiKTeX/tex/latex/base/article.cls" 1780057299 20144 e6010938fb17dfbae90a243ad7cf351d ""
   "C:/Program Files/MiKTeX/tex/latex/base/fontenc.sty" 1780057299 5275 529cdf4584f147773f12d4c9bf2b6cc3 ""
@@ -70,11 +79,11 @@
   "C:/Users/mi73683/AppData/Roaming/MiKTeX/tex/latex/amscls/amsthm.sty" 1591023609 12594 0d51ac3a545aaaa555021326ff22a6cc ""
   "C:/Users/mi73683/AppData/Roaming/MiKTeX/tex/latex/babel-slovenian/slovenian.ldf" 1748080874 3795 6a11b7ba6aa24ec0e0220b60f5ed04ca ""
   "C:/Users/mi73683/AppData/Roaming/MiKTeX/tex/latex/booktabs/booktabs.sty" 1579093635 6253 f1cb470c9199e7110a27851508ed7a5c ""
-  "c:/Users/mi73683/rp/racunalniski-praktikum/06-magicni-kvadrati/magic.tex" 1794235881 9225 51130591807ab6eb7e6bac170475ff45 ""
-  "magic.aux" 1794235883 1643 fb9a9a6f87f2753ed4e55188cef6c217 "pdflatex"
-  "magic.bbl" 1794235710 782 fedfb2f2c6af0d0f7ef7c67cfae247ad "bibtex magic"
-  "magic.tex" 1794235881 9225 51130591807ab6eb7e6bac170475ff45 ""
-  "magic.toc" 1794235883 588 b650541a7470944a97996f9dcbe709c3 "pdflatex"
+  "c:/Users/mi73683/rp/racunalniski-praktikum/06-magicni-kvadrati/magic.tex" 1794238246 9427 e7cf499bcc5531934f9a1ac73118c945 ""
+  "magic.aux" 1794238245 1730 979af8d25ccaa48cf2bd4719ada4d097 "pdflatex"
+  "magic.bbl" 1794237489 782 fedfb2f2c6af0d0f7ef7c67cfae247ad "bibtex magic"
+  "magic.tex" 1794238246 9427 e7cf499bcc5531934f9a1ac73118c945 ""
+  "magic.toc" 1794238245 588 b650541a7470944a97996f9dcbe709c3 "pdflatex"
   (generated)
   "magic.aux"
   "magic.log"
